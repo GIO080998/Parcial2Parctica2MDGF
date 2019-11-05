@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parcial2Parctica2MDGF</string>
+    <string name="RMASCULINO">MASCULINO</string>
+    <string name="rfemenino" translatable="false">FEMENINO</string>
+    <string name="btnmensaje">MENSAJE</string>
+    <string name="txtnumero1">Numero 1</string>
+    <string name="txtnumero2">Numero 2</string>
+    <string name="nsuma">Suma</string>
+    <string name="nresta">Resta</string>
+    <string name="nMultiplicacion">Multiplicacion</string>
+    <string name="nDivision">Division</string>
+    <string name="texto">Resultado</string>
+
+</resources>
